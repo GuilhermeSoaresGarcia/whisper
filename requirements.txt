@@ -1,6 +1,8 @@
 numba
 numpy
 torch
+torchvision
+torchaudio
 tqdm
 more-itertools
 tiktoken==0.3.3
